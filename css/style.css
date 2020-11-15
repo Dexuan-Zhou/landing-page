@@ -1,0 +1,35 @@
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+.title{
+	text-align: center;
+}
+body{
+	margin:10px;
+}
+.container{
+	align-items:center;
+	text-align: center;
+}
+
+h3{
+	font-family: time new romans;
+	text-align: center;
+}
+h1,h2{
+	font-family: time new romans;
+}
+a{
+	text-decoration: none;
+	text-align: center;
+}
+
+div{
+	border: 5px ;
+}
+.footer{
+	text-align: center;
+}
